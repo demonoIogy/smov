@@ -1,12 +1,12 @@
 {
-  "name": "o",
-  "short_name": "o",
+  "name": "",
+  "short_name": "",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#120f1d",
   "lang": "en",
   "scope": "/",
-  "description": "Watch your favorite shows and movies for free with no ads ever! (っ'ヮ'c)",
+  "description": "fuck you if you see this",
   "theme_color": "#120f1d",
   "icons": [
     {
